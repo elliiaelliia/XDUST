@@ -22,7 +22,7 @@ A minimalist simulator of quantum-like behavior, packed into one file: `xdust.py
    pip install numpy
 
 2.  Download xdust.py:
-	•  Grab it from this repo or copy it to any folder.
+   Grab it from this repo or copy it to any folder.
 
 3. Run:
    ```bash
