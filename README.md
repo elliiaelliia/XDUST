@@ -1,7 +1,7 @@
 
-# 🌌 xdust
+# 🌌 XDUST
 
-**xdust** — quantum-like binary computations in a single file.  
+**XDUST** — quantum-like binary computations in a single file.  
 Pure code. Living fire. Network pulse. FE ED BA BE.
 
 A minimalist simulator of quantum-like behavior, packed into one file: `xdust.py`. Experiment with superposition, entanglement, and gates to build AI, generate music, or rewrite reality.
@@ -20,3 +20,10 @@ A minimalist simulator of quantum-like behavior, packed into one file: `xdust.py
 1. **Install `numpy`** (if not already installed):
    ```bash
    pip install numpy
+
+2.  Download xdust.py:
+	•  Grab it from this repo or copy it to any folder.
+
+3. Run:
+   ```bash
+   python xdust.py
